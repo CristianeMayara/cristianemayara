@@ -2,9 +2,9 @@
 
 <p>
   <em style="font-style: italic">
-    👩🏻‍💻 Software Engineer at <a href="https://www.xpi.com.br/"><b>Xp Inc</b></a>.
+    👩🏻‍💻 Software Engineer at <a href="https://goshare.co/"><b>GoShare</b></a>.
     <br>
-    📌 Current working with TypeScript, Node.js, React.
+    📌 Current working with TypeScript, Node.js, Kotlin, Vue, React.
     <br>
     🎓 M.Sc. in Computer Science at <a href="https://www.ufc.br/"><b>UFC</b></a>.
     <br>
@@ -43,12 +43,8 @@ Languages and Tools
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="max-width:100%;margin-right: 15px">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="ReactJS" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -61,6 +57,14 @@ Languages and Tools
   
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="Node.js" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  </a>
+    
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
 </p>
 
